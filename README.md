@@ -67,11 +67,11 @@ Passionate Full Stack Developer with **5+ years of experience** building clean, 
 ### 💡 Technical Expertise
 
 ```
-Backend          Frontend         DevOps          Tools & More
-────────         ────────         ───────         ────────────
-Laravel          React            Docker          Git
-Adonis.js        Next.js          CI/CD           VS Code
-PHP              Tailwind CSS     AWS             Postman
+Backend          Frontend         DevOps          Tools & More       Leadership & Design
+────────         ────────         ───────         ────────────       ───────────────────
+Laravel          React            Docker          Git                Project Management
+Adonis.js        Next.js          CI/CD           VS Code            System Architecture
+PHP              Tailwind CSS     AWS             Postman            System Design
 Node.js          JavaScript       PostgreSQL      RESTful APIs
 Nest.js          TypeScript       MongoDB         Filament
 Kohana (legacy)  Livewire                         MCP / AI Agents
