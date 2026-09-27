@@ -18,6 +18,22 @@ Passionate Full Stack Developer with **5+ years of experience** building clean, 
 ⚙️ Workflow Automation — Designing intelligent pipelines and multi-step automations
 🔁 LLM Integration   — Embedding AI capabilities into real-world backend systems
 🧩 MCP & Tool Use    — Exploring Model Context Protocol for agent-tool orchestration
+📱 Mobile Development — Building Android apps with Flutter & Kotlin
+```
+
+---
+
+### 💡 Technical Expertise
+
+```
+Backend          Frontend         Mobile          DevOps          Tools & More       Leadership & Design
+────────         ────────         ───────         ───────         ────────────       ───────────────────
+Laravel          React            Flutter         Docker          Git                Project Management
+Adonis.js        Next.js          Dart            CI/CD           VS Code            System Architecture
+PHP              Tailwind CSS     Kotlin          AWS             Postman            System Design
+Node.js          JavaScript                       PostgreSQL      RESTful APIs
+Nest.js          TypeScript                       MongoDB         Filament
+Kohana (legacy)  Livewire                                         MCP / AI Agents
 ```
 
 ---
@@ -34,21 +50,7 @@ Passionate Full Stack Developer with **5+ years of experience** building clean, 
 
 ---
 
-### 🚀 Project Portfolio Overview
-
-📊 **Delivery Stats:**
-- **11+ Projects Delivered** from scratch
-- **5 Ongoing Projects**
-
-🛠️ **Tech Stack Breakdown:**
-- 7 Laravel Projects
-- 4 Adonis.js Projects
-- 1 Next.js Frontend Project
-- 4 Others
-
----
-
-### 🏆 Notable Projects
+### 🏆 Notable Client Projects
 
 | Project | Stack | Link |
 |---------|-------|------|
@@ -64,18 +66,38 @@ Passionate Full Stack Developer with **5+ years of experience** building clean, 
 
 ---
 
-### 💡 Technical Expertise
+### 🚀 My Products
 
-```
-Backend          Frontend         DevOps          Tools & More       Leadership & Design
-────────         ────────         ───────         ────────────       ───────────────────
-Laravel          React            Docker          Git                Project Management
-Adonis.js        Next.js          CI/CD           VS Code            System Architecture
-PHP              Tailwind CSS     AWS             Postman            System Design
-Node.js          JavaScript       PostgreSQL      RESTful APIs
-Nest.js          TypeScript       MongoDB         Filament
-Kohana (legacy)  Livewire                         MCP / AI Agents
-```
+| Project | Stack | Description | Link |
+|---------|-------|--------------|------|
+| ASO Meter | AI SaaS | AI-driven ASO tool — audits App Store / Play Store listings and generates AI-powered reviews & recommendations | [asometer.com](https://asometer.com/) |
+| WonderBaby AI - Baby Generator | Kotlin (Native Android) | 🎉 First app on Google Play — AI future-baby & family-portrait generator, bring-your-own-key (Gemini/OpenAI/Qwen), 100% private local gallery | [Play Store](https://play.google.com/store/apps/details?id=com.creativeappslab.wonderbabyai) |
+
+---
+
+### 🌱 Open Source Projects
+
+| Project | Stack | Description | Link |
+|---------|-------|--------------|------|
+| OneGoal | Flutter, Riverpod 3 | Local-first daily goal planner — one daily priority, focus timer, home/lockscreen Android widgets | [Link](https://github.com/miteshviras/onegoal) |
+| Pastor Mike | Next.js, React Three Fiber, Node.js, Ollama | 100% local/private AI spiritual companion — voice chat with 3D avatar, scripture search, prayer journaling | [Link](https://github.com/miteshviras/pastor-mike) |
+| Open Social Schedule | Next.js, Fastify, Prisma, MCP | Self-hostable, local-first social media scheduler for LinkedIn & X with a native MCP interface for AI agents | [Link](https://github.com/miteshviras/open-social-schedule) |
+
+---
+
+### 📊 Project Portfolio Overview
+
+📊 **Delivery Stats:**
+- **11+ Projects Delivered** from scratch
+- **5 Ongoing Projects**
+
+🛠️ **Tech Stack Breakdown:**
+- 7 Laravel Projects
+- 4 Adonis.js Projects
+- 1 Next.js Frontend Project
+- 3 Open Source Projects
+- 1 Android App (Google Play)
+- 4 Others
 
 ---
 
