@@ -50,6 +50,7 @@
 
 | Project | Stack | Description | Link |
 | :--- | :--- | :--- | :--- |
+| plugin-ledger | Claude Code plugin, Node.js (zero deps) | My own Claude Code plugin: keeps an auto-updated ledger (Excel or Google Sheet) of every plugin, skill & MCP server installed across 6 coding agents, with install/removal history | [plugin-ledger](https://github.com/miteshviras/plugin-ledger) |
 | OneGoal | Flutter, Riverpod 3 | Local-first daily goal planner: one daily priority, focus timer, home/lockscreen Android widgets | [onegoal](https://github.com/miteshviras/onegoal) |
 | Pastor Mike | Next.js, React Three Fiber, Node.js, Ollama | 100% local/private AI spiritual companion: voice chat with 3D avatar, scripture search, prayer journaling | [pastor-mike](https://github.com/miteshviras/pastor-mike) |
 | Open Social Schedule | Next.js, Fastify, Prisma, MCP | Self-hostable, local-first social media scheduler for LinkedIn & X with a native MCP interface for AI agents | [open-social-schedule](https://github.com/miteshviras/open-social-schedule) |
