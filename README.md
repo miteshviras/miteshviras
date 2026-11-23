@@ -36,27 +36,23 @@
 
 ---
 
-### Featured Projects
+### 🚀 My Products
 
-#### [ASO Meter](https://asometer.com/)
-> **AI SaaS · Product**
-> AI-driven App Store Optimization: audits App Store / Play Store listings and generates AI-powered reviews & recommendations.
-> *Tech: AI / LLMs, SaaS.*
+| Project | Stack | Description | Link |
+| :--- | :--- | :--- | :--- |
+| ASO Meter | AI SaaS | AI-driven ASO tool: audits App Store / Play Store listings and generates AI-powered reviews & recommendations | [asometer.com](https://asometer.com/) |
+| RouseUp: Exercise Alarm Clock | Kotlin (Native Android) | Alarm that only stops when you move: on-device AI tracks your body via camera and counts real reps across 14 exercises, with anti-cheat | [Play Store](https://play.google.com/store/apps/details?id=com.creativeappslab.rouseup) |
+| IngrediScan AI | Kotlin (Native Android) | Scan any food label to instantly flag allergens, additives and ingredients that don't fit your diet | [Play Store](https://play.google.com/store/apps/details?id=com.createappslab.ingrediscanai) |
 
-#### [RouseUp: Exercise Alarm Clock](https://play.google.com/store/apps/details?id=com.creativeappslab.rouseup)
-> **Android · Google Play**
-> The alarm that only stops when you move: on-device AI tracks your body through the camera and counts real reps across 14 exercises, with anti-cheat checks.
-> *Tech: Android, on-device pose detection.*
+---
 
-#### [IngrediScan AI](https://play.google.com/store/apps/details?id=com.createappslab.ingrediscanai)
-> **Android · Google Play**
-> Scan any food label and instantly see allergens, additives and ingredients that don't fit your diet, matched to your personal dietary preferences.
-> *Tech: Android, AI label analysis.*
+### 🌱 Open Source Projects
 
-#### [Open Social Schedule](https://github.com/miteshviras/open-social-schedule)
-> **Open Source · AI Agents**
-> Self-hostable, local-first social media scheduler for LinkedIn & X, with a native MCP interface for AI agents.
-> *Tech: Next.js, Fastify, Prisma, MCP.*
+| Project | Stack | Description | Link |
+| :--- | :--- | :--- | :--- |
+| OneGoal | Flutter, Riverpod 3 | Local-first daily goal planner: one daily priority, focus timer, home/lockscreen Android widgets | [Link](https://github.com/miteshviras/onegoal) |
+| Pastor Mike | Next.js, React Three Fiber, Node.js, Ollama | 100% local/private AI spiritual companion: voice chat with 3D avatar, scripture search, prayer journaling | [Link](https://github.com/miteshviras/pastor-mike) |
+| Open Social Schedule | Next.js, Fastify, Prisma, MCP | Self-hostable, local-first social media scheduler for LinkedIn & X with a native MCP interface for AI agents | [Link](https://github.com/miteshviras/open-social-schedule) |
 
 ---
 
@@ -71,20 +67,6 @@
 | **Data & DevOps** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 **Also:** System Design & Architecture · Project Management · RESTful APIs · Legacy migrations (Kohana → Laravel)
-
----
-
-### Other Projects
-
-#### [OneGoal](https://github.com/miteshviras/onegoal)
-> **Open Source · Productivity**
-> Local-first daily goal planner: one daily priority, focus timer, and home / lockscreen Android widgets.
-> *Tech: Flutter, Riverpod 3.*
-
-#### [Pastor Mike](https://github.com/miteshviras/pastor-mike)
-> **Open Source · Local AI**
-> 100% local, private AI spiritual companion: voice chat with a 3D avatar, scripture search and prayer journaling.
-> *Tech: Next.js, React Three Fiber, Node.js, Ollama.*
 
 ---
 
