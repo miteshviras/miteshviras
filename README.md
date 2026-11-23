@@ -10,7 +10,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=miteshviras&style=flat-square)](https://github.com/miteshviras)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mitesh-viras)
 [![X](https://img.shields.io/badge/X-@mitesh__viras-000000?style=flat-square&logo=x)](https://x.com/mitesh_viras)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:virashmitesh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://miteshviras.vercel.app)
 
 </div>
