@@ -42,6 +42,7 @@
 | ASO Meter | AI SaaS | AI-driven ASO tool: audits App Store / Play Store listings and generates AI-powered reviews & recommendations | [asometer.com](https://asometer.com/) |
 | RouseUp: Exercise Alarm Clock | Kotlin (Native Android) | Alarm that only stops when you move: on-device AI tracks your body via camera and counts real reps across 14 exercises, with anti-cheat | [Play Store](https://play.google.com/store/apps/details?id=com.creativeappslab.rouseup) |
 | IngrediScan AI | Kotlin (Native Android) | Scan any food label to instantly flag allergens, additives and ingredients that don't fit your diet | [Play Store](https://play.google.com/store/apps/details?id=com.createappslab.ingrediscanai) |
+| ResumeCraft | Next.js | Free, private resume & CV builder: 29+ ATS-friendly templates, real-time preview, clickable PDF export, 100% in-browser with no account or database | [resumecraft.creativeappslab.com](https://resumecraft.creativeappslab.com/) |
 
 ---
 
